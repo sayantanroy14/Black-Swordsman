@@ -1,2 +1,2 @@
-# Black-swordman
+# Black-Swordsman
 Berserk themed RPG game.
